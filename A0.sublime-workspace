@@ -11,9 +11,8 @@
 			"file": "hello.cpp",
 			"settings":
 			{
-				"buffer_size": 101,
-				"line_ending": "Unix",
-				"name": "hello.cpp"
+				"buffer_size": 119,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -44,6 +43,8 @@
 	},
 	"file_history":
 	[
+		"/Users/liusijiang/Sites/A0/hello.cpp",
+		"/Users/liusijiang/Sites/A0/A0.sublime-project",
 		"/Users/liusijiang/Documents/weiyun/明朝那些事儿.txt",
 		"/Users/liusijiang/Downloads/greenTree-2/WebContent/html/home.html"
 	],
@@ -89,20 +90,19 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 101,
+						"buffer_size": 119,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								88,
-								88
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "hello.cpp",
 							"syntax": "Packages/C++/C++.tmLanguage"
 						},
 						"translation.x": 0.0,
